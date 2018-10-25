@@ -6,7 +6,7 @@ body {
 
 .top-nav {
   background-color: white;
-  border-bottom-color: #edeee;
+  border-bottom-color: #edeeee;
   border-bottom-width: 1px;
   border-bottom-style: solid;
   height: 70px;
@@ -45,7 +45,7 @@ body {
 }
 
 .card p, .card .message {
-  font-size: 18px;
+  font-size: 25px;
   margin: 20px;
 }
 
@@ -88,6 +88,27 @@ input {
   margin-top: 10px;
 }
 
+.gram-actions a {
+  font-weight: bold;
+  font-size: 16px;
+  margin-right: 20px;
+  margin-left: auto;
+  padding: 10px;
+}
 
+.comments {
+  padding: 20px;
+}
+
+.comment {
+  font-size: 16px;
+  margin-top: 5px;
+}
+
+.comment_handle {
+  color: #125688;
+  font-weight: bold;
+  font-size: 18px;
+}
 
 
